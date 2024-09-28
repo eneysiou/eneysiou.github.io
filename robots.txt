@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eneysiou.github.io/sitemap.eneysiou.gz
+Sitemap: https://eneysiou.github.io/app/sitemap.eneysiou.gz
+Sitemap: https://eneysiou.github.io/assets/sitemap.eneysiou.gz
+Sitemap: https://eneysiou.github.io/css/sitemap.eneysiou.gz
+Sitemap: https://eneysiou.github.io/data/sitemap.eneysiou.gz
+Sitemap: https://eneysiou.github.io/includes/sitemap.eneysiou.gz
+Sitemap: https://eneysiou.github.io/item/sitemap.eneysiou.gz
+Sitemap: https://eneysiou.github.io/src/sitemap.eneysiou.gz
